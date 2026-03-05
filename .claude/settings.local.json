@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm run dev)",
+      "Bash(npm install --save-dev @types/react @types/react-dom)"
+    ]
+  }
+}
