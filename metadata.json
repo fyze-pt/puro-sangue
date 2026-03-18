@@ -1,0 +1,5 @@
+{
+  "name": "Restaurante Puro Sangue",
+  "description": "Restaurante de comida tradicional portuguesa com temática de hipismo e decoração rústica.",
+  "requestFramePermissions": ["geolocation"]
+}
